@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "851095285348",
+    "project_id": "warungsantri-29c7c",
+    "storage_bucket": "warungsantri-29c7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851095285348:android:51afaa0cd33076e1db3971",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3rVfnfb2tqwRTSDwOrh8Ifl-0uF_cs7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851095285348:android:f61f8f6009d0b419db3971",
+        "android_client_info": {
+          "package_name": "com.mahatech.warung_santri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3rVfnfb2tqwRTSDwOrh8Ifl-0uF_cs7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
